@@ -1,0 +1,1 @@
+This folder is for experimenting and learning React.
